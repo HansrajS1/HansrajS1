@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🇮🇳
 - 🔭 I’m currently working on AI and ML.
 - 🌱 I’m currently learning AI and ML.
 - 👯 I’m looking to collaborate on projects.
