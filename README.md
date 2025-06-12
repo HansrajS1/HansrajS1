@@ -1,4 +1,4 @@
-## Hi there 👋U+1F1EE
+## Hi there 👋 	&#127470; &#127475;
 - 🔭 I’m currently working on AI and ML.
 - 🌱 I’m currently learning AI and ML.
 - 👯 I’m looking to collaborate on projects.
@@ -6,4 +6,3 @@
 - 💬 Ask me about coding and debugging.
 - 📫 How to reach me: hansrajvvs@gmail.com
 - 😄 Pronouns: Male
-
