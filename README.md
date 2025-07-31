@@ -16,4 +16,19 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/hansraj61?theme=dark&font=baloo)](https://leetcode.com/hansraj61/)
 
 
+## 🧑‍💻 HackerRank Profile
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/profile/rhansbtech22)
+
+- 🥇 Gold in Java
+- 🥈 Silver in Problem Solving
+- 🥈 Silver in Python
+- 🥈 Silver in C++
+
+
+## ⚙️ Languages & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
