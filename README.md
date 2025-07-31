@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hans Raj — AI/ML Enthusiast & Full Stack Developer
+# 👋 Hi, I'm Hans Raj — AI/ML Enthusiast & Web Developer
 
 - 🔍 Exploring AI-powered systems (LLMs, CV, Deep Learning)
 - 💼 Open to internships in Machine Learning, NLP, or Software Development
