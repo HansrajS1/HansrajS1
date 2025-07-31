@@ -11,4 +11,9 @@
 - [Cardiovascular Risk Prediction](https://github.com/HansrajS1/Cardiovascular-Risk-Prediction-in-ml)
 - [Chatting-App](https://github.com/HansrajS1/Chatting-App)
 
+## 🧠 LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/hansraj61?theme=dark&font=baloo)](https://leetcode.com/hansraj61/)
+
+
 
