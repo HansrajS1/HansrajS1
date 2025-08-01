@@ -32,3 +32,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+![GitHub Student Developer Pack](https://img.shields.io/badge/GitHub-Education-blue?style=flat&logo=github)
+
+
