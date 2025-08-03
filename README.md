@@ -15,6 +15,10 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/hansraj61?theme=dark&font=baloo)](https://leetcode.com/hansraj61/)
 
+## 🧠 LeetCode Sync
+[![LeetCode Sync](https://github.com/HansrajS1/Github-streak-log/actions/workflows/leetcode-sync.yml/badge.svg)](https://github.com/HansrajS1/Github-streak-log/actions/workflows/leetcode-sync.yml)
+
+
 
 ## 🧑‍💻 HackerRank Profile
 
