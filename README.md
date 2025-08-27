@@ -9,7 +9,7 @@
 📌 Featured Projects:
 - [Restaurant Name & Menu Generator](https://github.com/HansrajS1/Restaurant-Name-Generator)
 - [Cardiovascular Risk Prediction](https://github.com/HansrajS1/Cardiovascular-Risk-Prediction-in-ml)
-- [Chatting-App](https://github.com/HansrajS1/Chatting-App)
+- [Spring Boot API](https://github.com/HansrajS1/Spring-Boot-API)
 
 ## 🧠 LeetCode Progress
 
