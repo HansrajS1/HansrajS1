@@ -7,9 +7,9 @@
 - [Resume](Resume.pdf)
 
 📌 Featured Projects:
+- [Au-Exam-App](https://github.com/HansrajS1/Au-Exam-App)
 - [Restaurant Name & Menu Generator](https://github.com/HansrajS1/Restaurant-Name-Generator)
 - [Cardiovascular Risk Prediction](https://github.com/HansrajS1/Cardiovascular-Risk-Prediction-in-ml)
-- [Spring Boot API](https://github.com/HansrajS1/Spring-Boot-API)
 
 ## 🧠 LeetCode Progress
 
