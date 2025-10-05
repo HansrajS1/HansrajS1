@@ -5,6 +5,7 @@
 - ⚙️ Tech: Python, Java, C++, React, OpenCV, Hugging Face
 - 📫 Reach me: hansrajvvs@gmail.com | [LinkedIn](https://www.linkedin.com/in/hansrajvvs)
 - [Resume](Resume.pdf)
+- [Portfolio](https://hansrajvvs.me/)
 
 📌 Featured Projects:
 - [Au-Exam-App](https://github.com/HansrajS1/Au-Exam-App)
