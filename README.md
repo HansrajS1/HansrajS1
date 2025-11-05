@@ -12,6 +12,7 @@
 - [Restaurant Name & Menu Generator](https://github.com/HansrajS1/Restaurant-Name-Generator)
 - [Cardiovascular Risk Prediction](https://github.com/HansrajS1/Cardiovascular-Risk-Prediction-in-ml)
 - [Blog-Posting-Website](https://github.com/HansrajS1/Blog-Posting-Website)
+- [Azure-Terraform-Webdeploy](https://github.com/HansrajS1/Azure-Terraform-Webdeploy)
 
 ## 🧠 LeetCode Progress
 
