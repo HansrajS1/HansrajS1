@@ -28,9 +28,9 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/profile/rhansbtech22)
 
 - Gold in Java
-- Silver in Problem Solving
-- Silver in Python
-- Silver in C++
+- Gold in Problem Solving
+- Gold in Python
+- Gold in C++
 
 
 ## Languages & Tools
