@@ -8,11 +8,11 @@
 - [Portfolio](https://hansrajvvs.me/)
 
  Featured Projects:
-- [Au-Exam-App](https://github.com/HansrajS1/Au-Exam-App)
+- [Au Exam App](https://github.com/HansrajS1/Au-Exam-App)
 - [Restaurant Name & Menu Generator](https://github.com/HansrajS1/Restaurant-Name-Generator)
 - [Cardiovascular Risk Prediction](https://github.com/HansrajS1/Cardiovascular-Risk-Prediction-in-ml)
-- [Blog-Posting-Website](https://github.com/HansrajS1/Blog-Posting-Website)
-- [Azure-Terraform-Webdeploy](https://github.com/HansrajS1/Azure-Terraform-Webdeploy)
+- [Hackathon Digitalflake](https://github.com/HansrajS1/Hackathon-Digitalflake)
+- [Azure Terraform Webdeploy](https://github.com/HansrajS1/Azure-Terraform-Webdeploy)
 
 ## LeetCode Progress
 
