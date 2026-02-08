@@ -7,12 +7,15 @@
 - [Resume](Resume.pdf)
 - [Portfolio](https://hansrajvvs.me/)
 
- Featured Projects:
-- [Au Exam App](https://github.com/HansrajS1/Au-Exam-App)  &emsp; &emsp; &emsp; [live link](https://auexamapp.tech/)
-- [Cardiovascular Risk Prediction](https://github.com/HansrajS1/Cardiovascular-Risk-Prediction-in-ml)  &emsp; &emsp; &emsp; [live link](https://cardiovascular-risk-prediction.hansrajvvs.me/)
-- [Restaurant Name & Menu Generator](https://github.com/HansrajS1/Restaurant-Name-Generator) &emsp; &emsp; &emsp; [live link](https://restaurant-name-generator-hansraj.streamlit.app/)
-- [AI-Booking-Assistant](https://github.com/HansrajS1/AI-Booking-Assistant) &emsp; &emsp; &emsp; [live link](https://ai-booking-assistant.streamlit.app/)
-- [ContextAI-AI-Chatbot](https://github.com/HansrajS1/ContextAI-AI-Chatbot) &emsp; &emsp; &emsp; [live link](https://contextai-ai-chatbot.streamlit.app/)
+## Featured Projects
+
+| Project Name | GitHub Repository | Live Demo |
+|-------------|------------------|-----------|
+| **Au Exam App** | [GitHub](https://github.com/HansrajS1/Au-Exam-App) | [Live](https://auexamapp.tech/) |
+| **Cardiovascular Risk Prediction** | [GitHub](https://github.com/HansrajS1/Cardiovascular-Risk-Prediction-in-ml) | [Live](https://cardiovascular-risk-prediction.hansrajvvs.me/) |
+| **Restaurant Name & Menu Generator** | [GitHub](https://github.com/HansrajS1/Restaurant-Name-Generator) | [Live](https://restaurant-name-generator-hansraj.streamlit.app/) |
+| **AI Booking Assistant** | [GitHub](https://github.com/HansrajS1/AI-Booking-Assistant) | [Live](https://ai-booking-assistant.streamlit.app/) |
+| **ContextAI – AI Chatbot** | [GitHub](https://github.com/HansrajS1/ContextAI-AI-Chatbot) | [Live](https://contextai-ai-chatbot.streamlit.app/) |
 
 ## LeetCode Progress
 
