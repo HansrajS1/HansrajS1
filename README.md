@@ -11,6 +11,8 @@
 - [Au Exam App](https://github.com/HansrajS1/Au-Exam-App)
 - [Cardiovascular Risk Prediction](https://github.com/HansrajS1/Cardiovascular-Risk-Prediction-in-ml)
 - [Restaurant Name & Menu Generator](https://github.com/HansrajS1/Restaurant-Name-Generator)
+- [AI-Booking-Assistant](https://github.com/HansrajS1/AI-Booking-Assistant)
+- [ContextAI-AI-Chatbot](https://github.com/HansrajS1/ContextAI-AI-Chatbot)
 - [Hackathon Digitalflake](https://github.com/HansrajS1/Hackathon-Digitalflake)
 - [Azure Terraform Webdeploy](https://github.com/HansrajS1/Azure-Terraform-Webdeploy)
 
