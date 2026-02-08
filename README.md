@@ -2,7 +2,7 @@
 
 - Exploring AI-powered systems (LLMs, CV, Deep Learning)
 - Open to internships in Machine Learning, NLP, or Software Development
-- Tech: Python, Java, C++, React, OpenCV, Hugging Face
+- Tech: Python, Java, React, OpenCV, Hugging Face
 - Reach me: hansrajvvs@gmail.com | [LinkedIn](https://www.linkedin.com/in/hansrajvvs)
 - [Resume](Resume.pdf)
 - [Portfolio](https://hansrajvvs.me/)
